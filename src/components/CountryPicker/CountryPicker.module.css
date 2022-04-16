@@ -1,8 +1,8 @@
 .formControl {
   width: 30%;
   margin-bottom: 30px !important;
-  background-color: white;
   position:relative;
+  background-color: white;
   animation-name: example;
   animation-duration: 2s;
   animation-delay: 4s;
